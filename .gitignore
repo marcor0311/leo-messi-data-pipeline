@@ -1,0 +1,8 @@
+# Local datasets and generated pipeline outputs
+/data/
+
+# Local Python environment and tooling cache
+/.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
